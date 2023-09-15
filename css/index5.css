@@ -1,0 +1,39 @@
+.container {
+    width: 1190px;
+    margin: 0 auto;
+    /* background-color: green; */
+}
+.topbar .list {
+    background-color: skyblue;
+}
+.topbar .list li {
+    float: left;
+    margin: 0px 89px;
+}
+.main .layout4 {
+    margin-top: 10px;
+    height: 40px;
+    background-color: purple;
+}
+.main .head-nav {
+    height: 504px;
+    background-color: green;
+}
+.main .head-subnav {
+    height: 90px;
+    background-color: skyblue;
+}
+.head-nav .aside-l {
+    width: 200px;
+    height: 504px;
+    background-color: red;
+}
+.head-nav .aside-r3 {
+    width: 200px;
+    height: 504px;
+    background-color: pink;
+}
+.main .footer {
+    height: 40px;
+    background-color: yellow;
+}

@@ -1,0 +1,31 @@
+.container {
+    width: 1190px;
+    margin: 0 auto;
+    /* background-color: green; */
+}
+.topbar .list {
+    background-color: skyblue;
+}
+.topbar .list li {
+    float: left;
+    margin: 0px 89px;
+}
+.main .layout4 {
+    margin-top: 10px;
+    height: 40px;
+    background-color: purple;
+}
+.main .head-nav {
+    height: 594px;
+    background-color: green;
+}
+.head-nav .aside-l {
+    width: 200px;
+    height: 594px;
+    background-color: red;
+}
+
+.main .footer {
+    height: 40px;
+    background-color: yellow;
+}

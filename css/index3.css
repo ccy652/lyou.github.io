@@ -1,0 +1,22 @@
+.container {
+    width: 1190px;
+    margin: 0 auto;
+    /* background-color: green; */
+}
+.topbar .list {
+    background-color: skyblue;
+}
+.topbar .list li {
+    float: left;
+    margin: 0px 89px;
+}
+.main .layout3 {
+    margin-top: 10px;
+    height: 675px;
+    background-color: purple;
+}
+.main .layout3 .left {
+    width: 200px;
+    height: 675px;
+    background-color: blue;
+}

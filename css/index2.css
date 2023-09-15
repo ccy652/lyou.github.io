@@ -1,0 +1,25 @@
+.container {
+    width: 1190px;
+    margin: 0 auto;
+    /* background-color: green; */
+}
+.topbar .list {
+    background-color: skyblue;
+}
+.topbar .list li {
+    float: left;
+    margin: 0px 89px;
+}
+.main .layout2 {
+    margin-top: 10px;
+    height: 40px;
+    background-color: purple;
+}
+.main .head-nav {
+    height: 594px;
+    background-color: green;
+}
+.main .footer {
+    height: 40px;
+    background-color: yellow;
+}
